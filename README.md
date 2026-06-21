@@ -24,4 +24,4 @@
 - **Discord:** `marsiago`
 - **Telegram:** [@marsiago](https://t.me/marsiago)
 
-![Minecraft Banner](https://ibb.co/wFLgsc7x)
+![Atmospheric Minecraft](https://github.com/MARSIAGO/marsiago/blob/main/like.png)
