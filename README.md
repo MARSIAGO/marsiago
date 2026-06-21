@@ -19,21 +19,11 @@
 
 ---
 
-### 🔥 Избранные проекты
-
-<!-- Можно добавить карточки своих репозиториев -->
-
-- **[Название плагина 1](ссылка)** — Краткое описание
-- **[Название плагина 2](ссылка)** — Краткое описание
-- **[Название плагина 3](ссылка)** — Краткое описание
-
----
-
 ### 📊 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARSIAGO&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSIAGO&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
 ---
 
