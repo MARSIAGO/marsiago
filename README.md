@@ -13,23 +13,11 @@
 
 ### 👨‍💻 Обо мне
 
-Я занимаюсь разработкой **плагинов для Minecraft** на Java.  
+Я занимаюсь разработкой **плагинов для Minecraft**.  
 Создаю удобные, производительные и качественные решения для серверов.
 
 
 ---
-
-### 🛠️ Технологии и инструменты
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Основные платформы:**
-- **Bukkit / Spigot / Paper** — основной стек
-- **Velocity** — для прокси
-- **Fabric / Quilt** — при необходимости
-
 ---
 
 ### 🔥 Избранные проекты
@@ -54,12 +42,3 @@
 
 - **Discord:** `marsiago`
 - **Telegram:** [@marsiago](https://t.me/marsiago)
-- **Email:** `твой@email.com`
-
----
-
-<div align="center">
-  
-  *Спасибо, что заглянул! Приятной игры и чистого кода* ✨
-
-</div>
