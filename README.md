@@ -6,7 +6,6 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-Developer-55FF55?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-FF6600?style=for-the-badge&logo=spigotmc&logoColor=white)
 
 </div>
 
@@ -15,9 +14,8 @@
 ### 👨‍💻 Обо мне
 
 Я занимаюсь разработкой **плагинов для Minecraft** на Java.  
-Создаю удобные, производительные и качественные решения для серверов на **Bukkit, Spigot и Paper**.
+Создаю удобные, производительные и качественные решения для серверов.
 
-От простых утилит и админок до сложных игровых механик, мини-игр и систем экономики.
 
 ---
 
@@ -54,8 +52,8 @@
 
 ### 📫 Связаться со мной
 
-- **Discord:** `твой_ник`
-- **Telegram:** [@твой_ник](https://t.me/твой_ник)
+- **Discord:** `marsiago`
+- **Telegram:** [@marsiago](https://t.me/marsiago)
 - **Email:** `твой@email.com`
 
 ---
