@@ -19,11 +19,11 @@
 
 ---
 
-### 📊 Статистика
+### 📊 Моя статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARSIAGO&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**MARSIAGO**&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSIAGO&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**MARSIAGO**&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
 ---
 
